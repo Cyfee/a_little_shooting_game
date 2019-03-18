@@ -1,0 +1,5 @@
+python==3.6.8
+pygame==1.9.4
+spyder==3.3.3
+spyder-kernels==0.4.2
+
